@@ -1,0 +1,43 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+.eggs/
+*.egg-info/
+.idea/
+.vscode/
+*.sqlite3
+*.db
+.DS_Store
+*.log
+.env
+pip-wheel-metadata/
+__MACOSX/
+# OS generated files
+Thumbs.db
+desktop.ini
+
+# Ignore Python bytecode cache folders
+**/__pycache__/
+
+# Ignore VS Code workspace storage
+.vscode/
+
+# If you use Jupyter
+.ipynb_checkpoints/
+
+# Ignore local settings
+local_settings.py
+
+# Ignore generated artifacts
+comparacion_metodos_swapface_whatsapp.csv
+requisitos_sistema_swapface.csv
+swapface_flowchart.png
+swapface_flowchart.svg
