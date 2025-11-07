@@ -36,8 +36,7 @@ desktop.ini
 # Ignore local settings
 local_settings.py
 
-# Ignore generated artifacts
+# Ignore generated artifacts (CSV outputs only, keep PNG for README preview)
 comparacion_metodos_swapface_whatsapp.csv
 requisitos_sistema_swapface.csv
-swapface_flowchart.png
 swapface_flowchart.svg
