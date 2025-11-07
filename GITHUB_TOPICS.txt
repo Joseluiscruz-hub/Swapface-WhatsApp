@@ -1,0 +1,39 @@
+# Tags/Topics sugeridos para el repositorio de GitHub
+
+Copia estos topics en la configuración del repo para mejorar la visibilidad:
+(GitHub > Settings > Topics)
+
+## Topics principales:
+- face-swap
+- swapface
+- whatsapp
+- video-call
+- real-time
+- deepfake
+- python
+- pandas
+- plotly
+- streaming
+- obs-studio
+- virtual-camera
+- tutorial
+- windows
+- desktop-app
+
+## Topics adicionales (opcionales):
+- video-processing
+- computer-vision
+- privacy
+- entertainment
+- content-creation
+
+## Cómo añadirlos:
+1. Ve a https://github.com/Joseluiscruz-hub/Swapface-WhatsApp
+2. Click en el ícono de engranaje (⚙️) junto a "About" (esquina superior derecha)
+3. En "Topics" añade los tags separados por espacios o Enter
+4. Añade también una descripción corta:
+   "Guía y scripts para usar Swapface con WhatsApp Desktop - Comparación de métodos, requisitos y diagramas"
+5. Marca "Releases" y "Packages" si aplican en el futuro
+6. Guarda los cambios
+
+Esto mejorará el SEO y la discoverabilidad del proyecto.

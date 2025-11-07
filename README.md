@@ -6,6 +6,15 @@
 
 Proyecto que genera tablas comparativas, requisitos del sistema y diagramas de flujo para usar Swapface con WhatsApp Desktop.
 
+> **⚠️ Disclaimer:** Este proyecto es solo con fines educativos e informativos. Úsalo de manera responsable y ética. No promovemos el uso de esta tecnología para suplantación de identidad, fraude o cualquier actividad ilegal.
+
+## 🎯 Casos de uso
+
+- **Privacidad:** Mantener anonimato en videollamadas profesionales o personales
+- **Entretenimiento:** Crear contenido divertido para redes sociales o streaming
+- **Creadores de contenido:** Usar avatares o personajes en videos/streams
+- **Pruebas y experimentación:** Explorar tecnologías de face-swap en tiempo real
+
 ## 📊 Preview
 
 ![Diagrama de flujo Swapface](swapface_flowchart.png)
@@ -79,7 +88,15 @@ python run_all.py
 - `chart_script.py` utiliza Plotly y `kaleido` para exportar imágenes. Asegúrate de instalar `kaleido` en el mismo entorno virtual donde ejecutas los scripts.
 - Si ves errores de "ModuleNotFoundError", activa el venv correcto o instala las dependencias con `python -m pip install -r requirements.txt`.
 
-## 📄 Licencia
+## � Recursos y referencias
+
+- [Swapface (oficial)](https://swapface.org/) — Software de intercambio de rostros en tiempo real
+- [OBS Studio](https://obsproject.com/) — Software de grabación y streaming de código abierto
+- [DroidCam](https://www.dev47apps.com/) — Convierte tu teléfono en una cámara web
+- [ManyCam](https://manycam.com/) — Software de cámara virtual con efectos
+- [Deep Live Cam](https://github.com/hacksider/Deep-Live-Cam) — Alternativa open-source de face-swap
+
+## �📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
